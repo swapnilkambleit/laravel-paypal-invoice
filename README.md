@@ -16,7 +16,7 @@ php artisan migrate  </p>
 <p>"business_name" => "ABC Business", // Business Name/p>
 <p>"email" => "abc@xyz.com", // Business Email/p>
 <p>"email_address" => "abc-xyz@business.example.com",  // Paypal Business Email/p>
-<p>"website" => "https://abc-xyz.com"  // Business Webside</p>
+<p>"website" => "https://abc-dummy-xyz.com"  // Business Webside</p>
 
 
 <p>5) php artisan serve</p>
